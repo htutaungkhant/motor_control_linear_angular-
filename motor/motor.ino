@@ -1,9 +1,9 @@
 #include <Arduino.h>
 
-#define IN1  4
-#define IN2  5
-#define IN3  6
-#define IN4  7
+#define IN1  0
+#define IN2  1
+#define IN3  3
+#define IN4  4
 
 void setup() {
   Serial.begin(115200);
