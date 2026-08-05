@@ -12,5 +12,5 @@ This is arduino code for motor control with ROS2 teleop_twist_keyboard
 This is arduino code for motor&encoder pins 
 | Motor    | Encoder     |
 | -------- | ---------- |
-|    0,1   |    7,10    |
+|    1,0   |    7,10    |
 |    3,4   |     5,6    |
