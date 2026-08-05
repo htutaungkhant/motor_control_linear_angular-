@@ -9,7 +9,7 @@ This is arduino code for motor control with ROS2 teleop_twist_keyboard
 | `0,-0.5` | Left Turn  |
 | `0,0`    | Stop       |
 
-This is arduino code for motor pins
+This is arduino code for motor&encoder pins 
 | Motor    | Encoder     |
 | -------- | ---------- |
 |    0,1   |    7,10    |
